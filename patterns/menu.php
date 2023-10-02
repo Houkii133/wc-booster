@@ -10,5 +10,5 @@
 
 ?>
 <!-- wp:shortcode -->
-[food_category per_page]
+[food_category ]
 <!-- /wp:shortcode -->
